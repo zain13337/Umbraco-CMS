@@ -218,7 +218,7 @@
 		"@umbraco-ui/uui": "^1.12.2",
 		"@umbraco-ui/uui-css": "^1.12.1",
 		"base64-js": "^1.5.1",
-		"diff": "^7.0.0",
+		"diff": "^8.0.3",
 		"dompurify": "^3.2.3",
 		"element-internals-polyfill": "^1.3.12",
 		"lit": "^3.2.1",
